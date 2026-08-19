@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans, AgglomerativeClustering
+from sklearn.cluster import AgglomerativeClustering
 from sklearn.preprocessing import StandardScaler
 import seaborn as sns
 from scipy.cluster.hierarchy import dendrogram, linkage
